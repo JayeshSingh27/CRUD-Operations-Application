@@ -1,2 +1,2 @@
 # CRUD-Operations-Application
-Used Jdbc and MySql
+Uses Jdbc and MySql
